@@ -25,6 +25,6 @@ I am Sanvi Bhelkar,✨Enthusiastic and dedicated data science student with knowl
 
 - 📫 How to reach me:
   
-  LinkedIn: linkedin.com/in/sanvi-bhelkar-617730236
+  LinkedIn: linkedin.com/in/sanvi-bhelkar
   
   EmailId: sanvibhelkar@gmail.com
